@@ -125,8 +125,6 @@ sub set {
 		],
 	});
 
-	print Dumper $response;
-
 	return;
 }
 
